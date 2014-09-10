@@ -1,0 +1,22 @@
+{
+  "name": "stylus-normalize",
+  "version": "0.0.0",
+  "description": "Normalize.css for Stylus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-morgan-jeffries/stylus-normalize.git"
+  },
+  "author": "s.morgan.jeffries@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-morgan-jeffries/stylus-normalize/issues"
+  },
+  "homepage": "https://github.com/s-morgan-jeffries/stylus-normalize",
+  "dependencies": {
+    "normalize.css": "^3.0.1"
+  }
+}
